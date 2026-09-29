@@ -1,0 +1,24 @@
+.venv/
+venv/
+env/
+
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+.vscode/
+
+.env
+
+.DS_Store
+Thumbs.db
+
+.streamlit/secrets.toml
+
+# Large datasets
+data/raw/
+data/processed/
+
+# Trained model files
+models/*.joblib

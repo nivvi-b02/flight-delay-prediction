@@ -1,0 +1,5 @@
+TIME_OF_DAY,total_flights,delayed_flights,delay_rate
+Afternoon,1720139,342138,19.89
+Evening,1287578,328782,25.53
+Morning,2341610,254720,10.88
+Night,364681,85947,23.57

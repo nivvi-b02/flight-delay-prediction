@@ -1,0 +1,15 @@
+AIRLINE,AIRLINE_NAME,total_flights,delayed_flights,delay_rate
+NK,Spirit Air Lines,115193,30524,26.5
+UA,United Air Lines Inc.,507762,115379,22.72
+F9,Frontier Airlines Inc.,90090,20084,22.29
+B6,JetBlue Airways,262042,55458,21.16
+WN,Southwest Airlines Co.,1242403,252666,20.34
+MQ,American Eagle Airlines Inc.,278791,53887,19.33
+VX,Virgin America,61248,10592,17.29
+EV,Atlantic Southeast Airlines,554752,93078,16.78
+AA,American Airlines Inc.,712935,118548,16.63
+OO,Skywest Airlines Inc.,576814,92926,16.11
+US,US Airways Inc.,194223,27853,14.34
+DL,Delta Air Lines Inc.,870275,117587,13.51
+AS,Alaska Airlines Inc.,171439,17784,10.37
+HA,Hawaiian Airlines Inc.,76041,5221,6.87
